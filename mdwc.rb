@@ -6,7 +6,7 @@ class Mdwc < Formula
   homepage "https://gitlab.com/palday/mdwc/"
   url "https://gitlab.com/palday/mdwc/repository/archive.tar.bz2?ref=v1.1"
   version "1.1"
-  sha256 "6c597ea7ba36a66d7528f9d90eaed95b476af555c9b4a7ba7a3fd7f82f522fc2"
+  sha256 "873aab963b95cb7db624e3234faecde018ce1396b7eb9f293020da04aa2b3fc4"
 
   depends_on "gnu-getopt"
   depends_on "coreutils"
