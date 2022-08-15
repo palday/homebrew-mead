@@ -4,7 +4,7 @@
 class Mdwc < Formula
   desc "Word count utility for Markdown files with pandoc-style YAML block"
   homepage "https://gitlab.com/palday/mdwc/"
-  url "https://gitlab.com/palday/mdwc/repository/archive.tar.bz2?ref=v1.1"
+  url "https://gitlab.com/palday/mdwc/-/archive/v1.1/mdwc-master.tar.bz2"
   version "1.1"
   sha256 "873aab963b95cb7db624e3234faecde018ce1396b7eb9f293020da04aa2b3fc4"
 
